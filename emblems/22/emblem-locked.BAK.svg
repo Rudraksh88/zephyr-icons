@@ -1,0 +1,28 @@
+<svg width="48px" height="48px" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="color-1" x1="-6.01" x2="29.648" y1="-3.629" y2="26.291" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e5e5e5" offset="0"/>
+   <stop stop-color="#666" offset="1"/>
+  </linearGradient>
+  <linearGradient id="color-2" x1="14.562" x2="49.844" y1="24.645" y2="4.275" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ededed" offset="0"/>
+   <stop stop-color="#9e9e9e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="color-3" x1="50.149" x2="15.502" y1="44.401" y2="24.397" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e5e5e5" offset="0"/>
+   <stop stop-color="#666" offset="1"/>
+  </linearGradient>
+  <linearGradient id="color-4" x1="9.153" x2="35.408" y1="41.468" y2="10.179" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ededed" offset="0"/>
+   <stop stop-color="#9e9e9e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill="none" font-family="none" font-size="none" font-weight="none" stroke-dasharray="" stroke-miterlimit="10" text-anchor="none" style="mix-blend-mode:normal">
+  <g transform="scale(5.3333)">
+   <path d="m24 4v20h-18v-14z" fill="url(#color-1)"/>
+   <path d="m42 10v14h-18v-20z" fill="url(#color-2)"/>
+   <path d="m42 24c0 13-18 21-18 21v-21z" fill="url(#color-3)"/>
+   <path d="m24 24v21s-18-8-18-21z" fill="url(#color-4)"/>
+  </g>
+ </g>
+</svg>

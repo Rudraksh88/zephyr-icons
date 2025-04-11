@@ -1,0 +1,8 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dadada;
+      }</style>
+ </defs>
+ <path transform="matrix(.71102 0 0 .71102 -.53218 -1.1071)" d="m3 3v3.3691l6 7v6.248l6 3v-9.248l6-7v-3.3691h-1zm2 2h14v0.63086l-6 7v6.752l-2-1v-5.752l-6-7z" fill="#fff" opacity=".8" style="mix-blend-mode:normal"/>
+</svg>

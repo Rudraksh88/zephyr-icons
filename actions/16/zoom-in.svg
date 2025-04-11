@@ -1,0 +1,8 @@
+<!-- Copyright 2000-2022 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg width="16" height="16" fill="none" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g stroke="#ced0d6">
+  <rect x="7.5742" y="4.2242" width=".85168" height="7.5517" rx=".42584" fill="#ced0d6" stroke-width=".44832"/>
+  <rect transform="rotate(90)" x="7.594" y="-11.756" width=".8119" height="7.5119" rx=".40595" fill="#ced0d6" stroke-width=".4881"/>
+  <circle cx="8" cy="8" r="6.8847" stroke-width="1.2306"/>
+ </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="24px" height="24px" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#dadada" font-family="none" font-size="none" font-weight="none" stroke-dasharray="" stroke-miterlimit="10" text-anchor="none" style="mix-blend-mode:normal">
+  <g transform="matrix(0 10.667 -10.667 0 256 -37.333)">
+   <path d="m18 3c-0.552 0-1 0.448-1 1v2c0 0.552 0.448 1 1 1h2c0.552 0 1-0.448 1-1v-2c0-0.552-0.448-1-1-1z"/>
+   <path d="m18 10c-0.552 0-1 0.448-1 1v2c0 0.552 0.448 1 1 1h2c0.552 0 1-0.448 1-1v-2c0-0.552-0.448-1-1-1z"/>
+   <path d="m18 17c-0.552 0-1 0.448-1 1v2c0 0.552 0.448 1 1 1h2c0.552 0 1-0.448 1-1v-2c0-0.552-0.448-1-1-1z"/>
+   <path d="m11 17c-0.552 0-1 0.448-1 1v2c0 0.552 0.448 1 1 1h2c0.552 0 1-0.448 1-1v-2c0-0.552-0.448-1-1-1z"/>
+   <path d="m11 10c-0.552 0-1 0.448-1 1v2c0 0.552 0.448 1 1 1h2c0.552 0 1-0.448 1-1v-2c0-0.552-0.448-1-1-1z"/>
+   <path d="m11 3c-0.552 0-1 0.448-1 1v2c0 0.552 0.448 1 1 1h2c0.552 0 1-0.448 1-1v-2c0-0.552-0.448-1-1-1z"/>
+  </g>
+ </g>
+</svg>

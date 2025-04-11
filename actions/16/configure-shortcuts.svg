@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="configure-shortcuts.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="31.78125"
+     inkscape:cx="5.6479843"
+     inkscape:cy="4.9872173"
+     inkscape:window-width="2057"
+     inkscape:window-height="1255"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dadada; }</style>
+  </defs>
+  <path
+     d="m 10.067676,3.8646475 v 8.2707065 a 2.0676763,2.0676763 0 1 0 2.067678,-2.067678 H 3.8646475 a 2.0676763,2.0676763 0 1 0 2.0676762,2.067678 V 3.8646475 A 2.0676763,2.0676763 0 1 0 3.8646475,5.9323237 H 12.135354 A 2.0676763,2.0676763 0 1 0 10.067676,3.8646475"
+     id="path1"
+     style="opacity:0.8;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.1945;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

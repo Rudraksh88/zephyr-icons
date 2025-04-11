@@ -1,0 +1,13 @@
+<svg class="lucide lucide-list-tree" width="16" height="16" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="matrix(1.6532 0 0 1.1309 -7.9332 1.0591)">
+  <g transform="translate(-1.0398 -.59981)">
+   <rect id="rect1" x="7.8299" y="4.3899" width="10.534" height=".60482" fill="#ced0d6" stroke="#ced0d6" stroke-linecap="square" stroke-linejoin="miter" stroke-width=".85425"/>
+  </g>
+  <g transform="translate(-1.2321 -2.1855)">
+   <use transform="translate(.19236 7.1681)" xlink:href="#rect1"/>
+  </g>
+  <g transform="translate(-1.2321 -3.7135)">
+   <use transform="translate(.19236 14.279)" xlink:href="#rect1"/>
+  </g>
+ </g>
+</svg>

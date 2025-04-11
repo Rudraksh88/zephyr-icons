@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dadada;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+ </defs>
+ <path d="m8 1.05c-3.8384 0-6.95 3.1116-6.95 6.95 0 3.8384 3.1116 6.95 6.95 6.95 3.8384 0 6.95-3.1116 6.95-6.95 0-3.8384-3.1116-6.95-6.95-6.95z" color="#da4453" fill="currentColor" stroke-width="1.1583"/>
+ <g transform="matrix(1.2443 0 0 1.2443 -1.9546 -1.9546)" fill="#491214" fill-rule="evenodd">
+  <rect transform="rotate(45.342)" x="10.653" y="-3.1152" width="1.3206" height="6.0952"/>
+  <rect transform="matrix(-.70287 .71132 .71132 .70287 0 0)" x="-.59272" y="8.2659" width="1.3206" height="6.0952"/>
+ </g>
+</svg>

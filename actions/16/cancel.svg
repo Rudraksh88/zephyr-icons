@@ -1,0 +1,11 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dadada;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+ </defs>
+ <path d="m11.98 3-3.98 3.9331-3.98-3.931-1.0669 1.0751 3.9678 3.9249-3.9698 3.9188 1.0649 1.0792 3.9841-3.9351 3.98 3.9351 1.069-1.0792-3.9698-3.9188 3.9678-3.9249z" color="#da4453" fill="#dadada" stroke-width="1.0445"/>
+</svg>

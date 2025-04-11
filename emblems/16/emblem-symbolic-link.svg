@@ -1,0 +1,18 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient2200" x1="20.743" x2="20.743" y1="41.709" y2="23.406" gradientTransform="matrix(0,1.8902,1.8269,0,-39.585,-15.603)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#eaeaea" stop-opacity=".78431" offset=".78233"/>
+   <stop stop-color="#eaeaea" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2198" x1="19.054" x2="19.054" y1="40.882" y2="10.13" gradientTransform="matrix(0,1.0963,-1.0596,0,46.481,3.9841)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#797979" stop-opacity="0" offset="0"/>
+   <stop stop-color="#545454" stop-opacity=".78431" offset=".22323"/>
+   <stop stop-color="#282828" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(0 -1.2405 1.2405 0 -9.8082 49.421)" stroke-width=".99992">
+  <path d="m2.3395 23.967c0.066711 1.7769 0.2973 3.5087 0.67346 5.1624 2.9826 13.113 15.117 21.311 27.265 8.0703l6.6405 6.6236 0.02647-20.644-20.188 0.03069s6.5423 6.769 6.5423 6.769c-11.455 12.42-18.536 2.6728-20.96-6.0113z" display="block" fill="url(#linearGradient2198)" stroke="url(#linearGradient2200)" stroke-miterlimit="10" stroke-width="2.3074"/>
+ </g>
+</svg>

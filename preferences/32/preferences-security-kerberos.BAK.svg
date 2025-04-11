@@ -1,0 +1,12 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(2.0247 0 0 2.0247 -1.1429 -1.1268)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0055d6" offset="0"/>
+   <stop stop-color="#0792d9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <image x=".5" y="1" width="31" height="31" image-rendering="optimizeQuality" opacity="0" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAPdJREFUSMftl7GuwjAMRY9NXlk6 8P9fycBCaWsGbJTmwQIkMORKVqWo6rm+zWCLmVFKRATI61VZlD0ASXkmIjsgAXtgAHZvwBdgAs7A bGbLQ7h3m4DR6++DnV+Ak9ccKaTsxQQcHJzehJaKNBNwdDNoFnXZ8Scl/t0RGJ13g2dxJ+pqw1ER Ub9cNTp+lsBeRFT9YGgAzg0MgARcG8M14DQE5wbuF+4r6vAO7/AO7/CqcGvMtYAbsDY0cOcFfGoM nwBTM1t9rr40MBBj9NnM1vjnc8zUleEbjnLbZZZsqK+RwGZxiM0lFa6O/qy6sfzWrlZzS/VL/U9X YfxzIl867ocAAAAASUVORK5CYII="/>
+ <rect x="1" y="1" width="30" height="30" rx="7.5" ry="7.5" fill="url(#a)" stroke-width=".5357"/>
+ <path d="m8.5 1c-4.155 0-7.5 3.345-7.5 7.5v15c0 4.155 3.345 7.5 7.5 7.5h15c4.155 0 7.5-3.345 7.5-7.5v-15c0-4.155-3.345-7.5-7.5-7.5zm0 0.53571h15c3.8582 0 6.9643 3.1061 6.9643 6.9643v15c0 3.8582-3.1061 6.9643-6.9643 6.9643h-15a6.9493 6.9493 0 0 1-6.9643-6.9643v-15c0-3.8582 3.1061-6.9643 6.9643-6.9643z" fill="#fff" opacity=".06" stroke-width=".5357"/>
+ <path class="ColorScheme-Text" d="m16 6.9244c-2.6815 0-4.8403 2.1588-4.8403 4.8403v2.4202c-1.3408 0-2.4202 1.0794-2.4202 2.4202v6.0504c0 1.3408 1.0794 2.4202 2.4202 2.4202h9.6807c1.3408 0 2.4202-1.0794 2.4202-2.4202v-6.0504c0-1.3408-1.0794-2.4202-2.4202-2.4202v-2.4202c0-2.6815-2.1588-4.8403-4.8403-4.8403zm0 1.2101c2.0112 0 3.6302 1.6191 3.6302 3.6303v2.4202h-7.2605v-2.4202c0-2.0112 1.6191-3.6303 3.6303-3.6303zm-4.8403 7.2605h9.6807c0.67039 0 1.2101 0.5397 1.2101 1.2101v6.0504c0 0.67039-0.5397 1.2101-1.2101 1.2101h-9.6807c-0.67039 0-1.2101-0.5397-1.2101-1.2101v-6.0504c0-0.67039 0.5397-1.2101 1.2101-1.2101z" color="#363636" fill="#fff" stroke="#fff" stroke-width=".70588"/>
+</svg>

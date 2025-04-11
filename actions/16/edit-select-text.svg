@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#dadada;
+        }</style>
+ <g transform="translate(.61971)" display="none" fill="#fff" fill-opacity=".8">
+  <path d="m10.682 1.8496v1.3008h1v9.6992h-1v1.3008h3.2988v-1.3008h-1v-9.6992h1v-1.3008z" color="#dadada"/>
+  <path d="m4.8984 2.8496-4.1191 10.301h1.4004l1.1992-3h4.2422l1.1992 3h1.4004l-4.1191-10.301zm0.60156 1.998 1.6016 4.002h-3.2031z" color="#dadada"/>
+ </g>
+ <g transform="translate(-1.95e-7 -.49695)" fill="none" stroke="#fff" stroke-width="1.4167">
+  <path d="m2.8959 2.6636h0.72916a2.1875 2.1875 0 0 1 2.1875 2.1875 2.1875 2.1875 0 0 1 2.1875-2.1875h0.72916" opacity=".8"/>
+  <path d="m8.7292 14.33h-0.72916a2.1875 2.1875 0 0 1-2.1875-2.1875 2.1875 2.1875 0 0 1-2.1875 2.1875h-0.72916" opacity=".8"/>
+  <path d="m2.8959 11.414h-0.72916a1.4583 1.4583 0 0 1-1.4583-1.4583v-2.9167a1.4583 1.4583 0 0 1 1.4583-1.4583h0.72916" opacity=".8"/>
+  <path d="m8.7292 5.5803h5.1041a1.4583 1.4583 0 0 1 1.4583 1.4583v2.9167a1.4583 1.4583 0 0 1-1.4583 1.4583h-5.1041" opacity=".8"/>
+  <path d="m5.8125 4.8511v7.2916" opacity=".8"/>
+ </g>
+</svg>

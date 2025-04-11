@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Desktop--Streamline-Radix.svg" width="16" height="16" fill="none" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <desc>Desktop Streamline Icon: https://streamlinehq.com</desc>
+ <path d="m1.334 2.2136c-0.73638 0-1.334 0.5976-1.334 1.334v9.125c0 0.73643 0.5976 1.334 1.334 1.334h13.332c0.73643 0 1.334-0.59756 1.334-1.334v-9.125c0-0.73638-0.59756-1.334-1.334-1.334zm0 1.0664h13.332c0.14731 0 0.26758 0.1203 0.26758 0.26758v9.125c0 0.14731-0.12027 0.26562-0.26758 0.26562h-13.332c-0.14727 0-0.26758-0.11832-0.26758-0.26562v-9.125c0-0.14727 0.1203-0.26758 0.26758-0.26758z" fill="#dadada" style="paint-order:fill markers stroke"/>
+ <path transform="matrix(.90122 0 0 .90122 .79035 .69098)" x="2.3864853" y="4.5307574" width="11.226705" height="7.1586905" rx="0.2" d="m2.5865 4.5308h10.827c0.1108 0 0.2 0.0892 0.2 0.2v6.7587c0 0.1108-0.0892 0.2-0.2 0.2h-10.827c-0.1108 0-0.2-0.0892-0.2-0.2v-6.7587c0-0.1108 0.0892-0.2 0.2-0.2z" fill="#dadada" fill-rule="evenodd" stroke-width="1.0157"/>
+</svg>

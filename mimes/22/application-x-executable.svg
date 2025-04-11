@@ -1,0 +1,8 @@
+<!-- Copyright 2000-2022 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg width="32" height="32" fill="none" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(2.1667 3)" stroke="#548af7" stroke-width="1.8333">
+  <rect x="1.9167" y="2.9167" width="23.833" height="20.167" rx="2.75" fill="#25324d"/>
+  <path d="m6.5 8.4167h1.8333" stroke-linecap="round"/>
+  <path d="m12 8.4167h1.8333" stroke-linecap="round"/>
+ </g>
+</svg>

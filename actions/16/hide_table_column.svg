@@ -1,0 +1,8 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dadada;
+      }</style>
+ </defs>
+ <path d="m6.0111 11.315 0.47866-2.1546m-3.7934 0.16574 1.1443-1.3591m9.4631 1.3591-1.1443-1.3591m-10.789-3.2816a7.0572 7.0572 0 0 0 13.259 0m-4.6407 6.6296-0.47866-2.1546" fill="none" stroke="#fff" stroke-linecap="round" stroke-opacity=".80356" stroke-width="1.2704"/>
+</svg>

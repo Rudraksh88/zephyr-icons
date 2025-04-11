@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2000-2022 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+
+<svg
+   width="16"
+   height="16"
+   fill="none"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="view-right-new.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="31.78125"
+     inkscape:cx="13.577188"
+     inkscape:cy="9.612586"
+     inkscape:window-width="2057"
+     inkscape:window-height="1255"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 3.2480469,0.77148437 c -1.3663476,0 -2.47656253,1.11021493 -2.47656253,2.47656253 v 9.5039061 c 0,1.366444 1.11022003,2.476563 2.47656253,2.476563 h 9.5039061 c 1.366439,0 2.476563,-1.110124 2.476563,-2.476563 V 3.2480469 c 0,-1.3663425 -1.110119,-2.47656253 -2.476563,-2.47656253 H 7.40625 Z m 0,1.38867193 H 7.3066406 V 13.839844 H 3.2480469 c -0.6021173,0 -1.0878907,-0.485744 -1.0878906,-1.087891 V 3.2480469 c 0,-0.6021153 0.4857655,-1.0878907 1.0878906,-1.0878906 z m 5.4453125,0 h 4.0585936 c 0.602148,0 1.087891,0.4857625 1.087891,1.0878906 v 9.5039061 c 0,0.60215 -0.485741,1.087891 -1.087891,1.087891 H 8.6933594 Z"
+     style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;opacity:0.8"
+     id="path7" />
+</svg>

@@ -1,0 +1,9 @@
+<svg width="24px" height="24px" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.1305 0 0 1.1305 -16.706 -27.099)" fill="#fff" fill-opacity=".85" font-family="none" font-size="none" font-weight="none" stroke="#000" stroke-miterlimit="10" stroke-width="7.2649" text-anchor="none">
+  <g transform="scale(10.667)" fill="#fff" fill-opacity=".85" stroke-width=".68108">
+   <g transform="matrix(1.0517 0 0 1.0517 -.6199 -.61543)" fill="#fff" fill-opacity=".85">
+    <path d="m11.399 3.563-8.0593 4.0306v7.0674h1.3207v-6.254l7.3296-3.6639zm4.0002 2.9987-8.0593 4.0325v7.0655h1.3188v-6.254l7.3315-3.6639zm5.2601 2.3716-9.3193 4.6596v8.4736l9.3193-4.6596zm-1.3207 2.1322v5.5281l-6.6797 3.3408v-5.5281z" fill="#fff" fill-opacity=".85" stroke="none"/>
+   </g>
+  </g>
+ </g>
+</svg>

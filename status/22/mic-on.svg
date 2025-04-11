@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mic-on.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="18.704545"
+     inkscape:cx="12.162819"
+     inkscape:cy="10.291616"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#4285f4; }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="m 11,2.9883 c -1.662,0 -3,1.338 -3,3 v 6.0254 c 0,1.662 1.338,3 3,3 1.662,0 3,-1.338 3,-3 V 5.9883 c 0,-1.662 -1.338,-3 -3,-3 z m -4.5,7.0234 v 0.002 c -0.277,0 -0.5,0.223 -0.5,0.5 v 1.5 c 0,2.6 1.967,4.7246 4.5,4.9746 v 1.0234 h -2 c -0.66667,0 -0.66667,1 0,1 h 5 c 0.66667,0 0.66667,-1 0,-1 h -2 v -1.0254 c 2.5575,-0.25141 4.5054,-2.4048 4.5,-4.9746 v -1.5 c 0,-0.66667 -1,-0.66667 -1,0 v 1.5 c 0,2.216 -1.784,4 -4,4 -2.216,0 -4,-1.784 -4,-4 v -1.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z"
+     fill="currentColor"
+     id="path1"
+     style="display:none" />
+  <g
+     fill="#ffffff"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode:normal"
+     id="g3"
+     transform="matrix(0.07653061,0,0,0.07653061,1.2040819,1.3571431)">
+    <g
+       transform="scale(4)"
+       id="g2">
+      <path
+         d="m 32,7 c -4.963,0 -9,4.038 -9,9 v 13 c 0,4.962 4.037,9 9,9 4.963,0 9,-4.038 9,-9 V 16 C 41,11.038 36.963,7 32,7 Z M 18,29.5 c -1.104,0 -2,0.896 -2,2 0,7.37978 6.12066,13.47831 14,14.375 V 52 h -7 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 h 18 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 h -7 v -6.125 c 7.87934,-0.89669 14,-6.99522 14,-14.375 0,-1.104 -0.896,-2 -2,-2 -1.104,0 -2,0.896 -2,2 C 44,37.29 38.617,42 32,42 25.383,42 20,37.29 20,31.5 c 0,-1.104 -0.896,-2 -2,-2 z"
+         id="path1-5" />
+    </g>
+  </g>
+</svg>

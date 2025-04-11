@@ -1,0 +1,14 @@
+<!-- Copyright 2000-2023 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg width="16" height="16" fill="none" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.0467 0 0 1.0467 -.89667 -.73869)">
+  <g transform="matrix(.9375 0 0 .9375 1 1.0884)">
+   <rect x=".57143" y="1.459" width="14.857" height="12.571" rx="1.7143" fill="none" stroke="#dadada" stroke-width="1.1429"/>
+  </g>
+  <g transform="matrix(.072 0 0 .072 2.0954 2.306)" fill="#dadada">
+   <g transform="translate(0 -.74779)">
+    <path d="m26.453 121.23 25.723-36.55-25.723-36.55h19.764l25.027 36.55-25.126 36.55z" stroke-width=".5208"/>
+    <rect x="82.561" y="107.31" width="50.046" height="13.912" stroke-width=".24552"/>
+   </g>
+  </g>
+ </g>
+</svg>

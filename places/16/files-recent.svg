@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45.481" height="44.054" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 45.481 44.054" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(1.2188 0 0 1.2158 -8.4985 2.4782)">
+  <path d="m11.409 2.3341v26.51h15.427c-0.68377-1.2691-1.0728-2.7201-1.0728-4.2603 0-3.7359 2.2847-6.9482 5.5266-8.3081v-2.8972h-11.045v-11.045z" fill="#fff" opacity=".12" stroke-width="1.1046"/>
+ </g>
+ <path d="m2.7137 2.6286v37.603h23.544c-0.81181-0.78321-1.5077-1.6842-2.0479-2.6843h-18.803v-32.231h10.769v13.428h13.463v3.5224c0.84829-0.35495 1.754-0.59665 2.6938-0.72779v-5.2111l-13.736-13.699z" fill="#f6f9fb" fill-rule="nonzero" opacity=".69991" stroke-width="1.6845"/>
+ <path d="m33.708 23.306a9.0603 9.0591 0 0 0-9.0593 9.0613 9.0603 9.0591 0 0 0 9.0593 9.0581 9.0603 9.0591 0 0 0 9.0593-9.0581 9.0603 9.0591 0 0 0-9.0593-9.0613zm-1.3739 2.0195c0.7576 8.81e-4 1.3729 0.56011 1.3739 1.2477v6.9724c1.4409-0.01852 2.8811-0.03703 4.3265-0.0537a1.3743 1.374 0 0 1 1.3864 1.3578 1.3743 1.374 0 0 1-1.3581 1.3989c-1.9207 0.02315-3.8421 0.05093-5.7696 0.07222a1.3743 1.374 0 0 1-0.0095 0c-0.0063 4.4e-5 -0.01231 4.4e-5 -0.01889 0-0.1369-0.0014-0.26636-0.02778-0.39073-0.06297a1.3743 1.374 0 0 1-0.0063 0 1.3743 1.374 0 0 0-0.0032-0.0032c-0.55892-0.16199-0.96347-0.6339-0.95794-1.1941v-0.09442a1.3743 1.374 0 0 0 0-0.0033 1.3743 1.374 0 0 0 0-0.0032l0.04096-8.3996c0.0087-0.68728 0.62883-1.2395 1.3864-1.235z" fill="#f6f9fb" opacity=".71458" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.8" stroke-width="1.9588"/>
+ <path d="m18.87 6.9292v9.1306h9.1526z" clip-rule="nonzero" fill-rule="nonzero" opacity=".71458" stroke-linecap="round" stroke-miterlimit="1.8" stroke-width="1.5251"/>
+</svg>

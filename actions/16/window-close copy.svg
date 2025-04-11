@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dadada;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+ </defs>
+ <path d="m8 1.0508c-3.8384 0-6.9492 3.1108-6.9492 6.9492 0 3.8384 3.1108 6.9492 6.9492 6.9492s6.9492-3.1108 6.9492-6.9492-3.1108-6.9492-6.9492-6.9492zm-2.1191 3.6992 2.1191 2.0938 2.1191-2.0938 1.1562 1.168-2.1055 2.082 2.1055 2.0801-1.1562 1.1699-2.1191-2.0957-2.1211 2.0957-1.1543-1.1699 2.1055-2.0801-2.1055-2.082z" color="#da4453" fill="currentColor" stroke-width="1.1583"/>
+</svg>

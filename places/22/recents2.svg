@@ -1,0 +1,10 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dadada}</style>
+ </defs>
+ <g transform="matrix(1.0607 0 0 1.0607 .34294 -.72792)" fill="#fff" fill-opacity=".8" fill-rule="evenodd" stroke-width="1.0446">
+  <rect transform="matrix(1 0 -.40027 .9164 0 0)" x="10.346" y="6.9218" width="2.0157" height="12.346"/>
+  <rect transform="matrix(1 0 -.40027 .9164 0 0)" x="15.226" y="6.9218" width="2.0157" height="12.346"/>
+  <rect transform="matrix(1 0 -.40027 .9164 0 0)" x="20.102" y="6.9218" width="2.0157" height="12.346"/>
+ </g>
+</svg>

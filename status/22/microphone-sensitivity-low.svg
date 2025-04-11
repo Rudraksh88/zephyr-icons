@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="microphone-sensitivity-low.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="18.704545"
+     inkscape:cx="12.029162"
+     inkscape:cy="3.9829891"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#4285f4; }</style>
+  </defs>
+  <g
+     id="g1">
+    <g
+       fill="#ffffff"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       id="g3"
+       transform="matrix(0.07653061,0,0,0.07653061,1.2040819,1.3571431)">
+      <g
+         transform="scale(4)"
+         id="g2">
+        <path
+           d="m 18.001823,29.502995 c -1.104,0 -2.003386,0.893005 -2.003386,1.997005 0,7.37978 6.125218,13.47792 14.004558,14.37461 v 6.125 h -7.005469 c -1.104,0 -1.997005,0.899386 -1.997005,2.003386 0,1.104 0.893005,1.997005 1.997005,1.997005 h 18.004948 c 1.104,0 1.997006,-0.893005 1.997006,-1.997005 0,-1.104 -0.893006,-2.003386 -1.997006,-2.003386 h -7.005469 v -6.125 C 41.876345,44.97792 48.001563,38.87978 48.001563,31.5 c 0,-1.104 -0.899385,-1.997005 -2.003385,-1.997005 -1.104,0 -1.997006,0.893005 -1.997006,1.997005 C 44.001172,37.29 38.617,42.001823 32,42.001823 25.383,42.001823 19.998828,37.29 19.998828,31.5 c 0,-1.104 -0.893005,-1.997005 -1.997005,-1.997005 z"
+           style=""
+           id="path1" />
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.0272;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6"
+           width="13.977753"
+           height="26.974234"
+           x="25.011124"
+           y="9.0135984"
+           ry="6.9888763" />
+      </g>
+    </g>
+  </g>
+</svg>
