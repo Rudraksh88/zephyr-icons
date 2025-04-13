@@ -4,11 +4,9 @@
         color:#dadada;
       }</style>
  </defs>
- <g transform="matrix(.076666 0 0 .076666 -1.8132 -1.8132)" fill="#fff" font-family="none" font-size="none" font-weight="none" opacity=".8" stroke-miterlimit="10" text-anchor="none" style="mix-blend-mode:normal">
-  <g transform="scale(8)">
-   <path d="m6.9997 12.001v1.9997h5.0009v-1.9997z"/>
-   <path d="m3.9985 5v22h24.003v-22zm2.0032 1.9997h6.9971v18.001h-6.9971zm8.9968 0h11v18.001h-11z"/>
-   <path d="m6.9997 8.7294v1.9997h5.0009v-1.9997z"/>
+ <g transform="matrix(.065156 0 0 .065156 -.34 -.34)" fill="#fff" fill-opacity=".85098" font-family="none" font-size="none" font-weight="none" stroke-miterlimit="10" text-anchor="none" style="mix-blend-mode:normal">
+  <g transform="scale(10.667)">
+   <path d="m20 2h-16c-1.1055 0-2 0.89453-2 2v16c0 1.1055 0.89453 2 2 2h16c1.1055 0 2-0.89453 2-2v-16c0-1.1055-0.89453-2-2-2zm-9 16c0 0.55078-0.44922 1-1 1h-5c-0.55469 0-1-0.44922-1-1v-13c0-0.55078 0.44531-1 1-1h5c0.55078 0 1 0.44922 1 1zm9-6.0039c0 0.55469-0.44922 1.0039-1.0039 1.0039h-4.9922c-0.55469 0-1.0039-0.44922-1.0039-1.0039v-6.9922c0-0.55469 0.44922-1.0039 1.0039-1.0039h4.9922c0.55469 0 1.0039 0.44922 1.0039 1.0039z"/>
   </g>
  </g>
 </svg>

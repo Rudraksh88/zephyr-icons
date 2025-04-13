@@ -1,6 +1,8 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dadada; }</style>
- </defs>
- <path d="m2 1c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h5.5v1h-6.9453c-0.30778 0-0.55469 0.223-0.55469 0.5s0.24691 0.5 0.55469 0.5h14.891c0.30778 0 0.55469-0.223 0.55469-0.5s-0.24691-0.5-0.55469-0.5h-6.9453v-1h5.5c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-2-5.6289c-0.57985-0.0229-0.6047 0.076884-1.0391-0.35742-0.43381-0.43381-0.613-0.64213-1.332-0.64258h-2zm0 1h2c0.31116-1.7e-6 0.52033 1.414e-4 0.99805 0.4707 0.47877 0.47161 0.6388 0.5293 1 0.5293h6.002 2c0.554 0 1 0.446 1 1v1h-14v-2c0-0.554 0.446-1 1-1zm-1 4h14v6c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-6z" style="fill:currentColor" class="ColorScheme-Text"/>
+<!-- Copyright 2000-2022 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg width="16" height="13.275" fill="none" version="1.1" viewBox="0 0 16 13.275" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.0625 0 0 .0625 0 -1.3625)" fill="#fff" fill-opacity=".85098" font-family="none" font-size="none" font-weight="none" stroke-miterlimit="10" text-anchor="none" style="mix-blend-mode:normal">
+  <g transform="scale(10.667)" fill="#fff" fill-opacity=".85098">
+   <path d="M 19.355,10.036 C 18.674,6.595 15.641,4 12,4 9.108,4 6.603,5.639 5.352,8.036 2.343,8.36 0,10.906 0,14 c 0,3.314 2.686,6 6,6 h 13 c 2.761,0 5,-2.239 5,-5 0,-2.64 -2.052,-4.779 -4.645,-4.964 z M 19,18 H 6 C 3.794,18 2,16.206 2,14 2,11.952 3.533,10.243 5.565,10.025 L 6.629,9.91 7.124,8.961 C 8.078,7.135 9.947,6 12,6 c 2.617,0 4.885,1.861 5.393,4.424 l 0.297,1.498 1.523,0.109 C 20.776,12.142 22,13.447 22,15 c 0,1.654 -1.346,3 -3,3 z" fill="#fff" fill-opacity=".85098"/>
+  </g>
+ </g>
 </svg>

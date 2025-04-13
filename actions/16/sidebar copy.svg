@@ -1,0 +1,14 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dadada;
+      }</style>
+ </defs>
+ <g transform="matrix(.076666 0 0 .076666 -1.8132 -1.8132)" fill="#fff" font-family="none" font-size="none" font-weight="none" opacity=".8" stroke-miterlimit="10" text-anchor="none" style="mix-blend-mode:normal">
+  <g transform="scale(8)">
+   <path d="m6.9997 12.001v1.9997h5.0009v-1.9997z"/>
+   <path d="m3.9985 5v22h24.003v-22zm2.0032 1.9997h6.9971v18.001h-6.9971zm8.9968 0h11v18.001h-11z"/>
+   <path d="m6.9997 8.7294v1.9997h5.0009v-1.9997z"/>
+  </g>
+ </g>
+</svg>

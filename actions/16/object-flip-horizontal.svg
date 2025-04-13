@@ -4,5 +4,9 @@
         color:#dadada;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m1 12c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-1h2v1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-8c0-0.554-0.446-1-1-1h-4c-0.554 0-1 0.446-1 1v1h-2v-1c0-0.554-0.446-1-1-1h-4c-0.554 0-1 0.446-1 1zm1 0v-8h4v8zm1.5 4h1v-2h-1zm0-14h1v-2h-1zm3.5 8v-4h2v4zm3 2v-8h4v8zm1.5 4h1v-2h-1zm0-5h1v-6h-1zm0-9h1v-2h-1z" fill="currentColor"/>
+ <g transform="matrix(-.056744 0 0 .056744 15.263 .42345)" fill="#fff" fill-opacity=".85098" font-family="none" font-size="none" font-weight="none" stroke-miterlimit="10" text-anchor="none" style="mix-blend-mode:normal">
+  <g transform="scale(9.8462)" fill="#fff" fill-opacity=".85098">
+   <path d="m11.719 1.125c-0.14844 0-0.34766 0.21875-0.5625 0.6875l-10.312 22.375c-0.46094 1 0.05469 1.8125 1.1562 1.8125h8c1.1016 0 2-0.89844 2-2v-22c0-0.58594-0.10937-0.875-0.28125-0.875zm2.5312 0c-0.15234 0.03516-0.25 0.32422-0.25 0.875v22c0 1.1016 0.89844 2 2 2h8c1.1016 0 1.6172-0.8125 1.1562-1.8125l-10.312-22.375c-0.23047-0.5-0.44141-0.72266-0.59375-0.6875zm-4.25 7.9688v14.906h-6.875z" fill="#fff" fill-opacity=".85098"/>
+  </g>
+ </g>
 </svg>

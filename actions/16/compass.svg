@@ -4,6 +4,9 @@
         color:#dadada;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m12 4-4 2c-1.0472 0-2 0.95278-2 2l-2 4 4-2c1.0472 0 2-0.95285 2-2zm-4 3c0.52361 0 1 0.47635 1 1-1.43e-5 0.52357-0.47641 1-1 1-0.52359 0-0.99999-0.47643-1-1-2.48e-5 -0.52365 0.47639-1 1-1z" fill="currentColor"/>
- <path d="m8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" style="fill:currentColor" class="ColorScheme-Text"/>
+ <g transform="matrix(.074996 0 0 .074996 -1.5995 -1.5995)" fill="#fff" fill-opacity=".85098" font-family="none" font-size="none" font-weight="none" stroke-miterlimit="10" text-anchor="none" style="mix-blend-mode:normal">
+  <g transform="scale(10.667)">
+   <path d="m12 2c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zm0 2c4.418 0 8 3.582 8 8s-3.582 8-8 8-8-3.582-8-8 3.582-8 8-8zm5 3-6.8242 3.1758-3.1758 6.8242 6.8242-3.1758zm-5 3.9004c0.61 0 1.0996 0.48961 1.0996 1.0996s-0.48961 1.0996-1.0996 1.0996-1.0996-0.48961-1.0996-1.0996 0.48961-1.0996 1.0996-1.0996z"/>
+  </g>
+ </g>
 </svg>
